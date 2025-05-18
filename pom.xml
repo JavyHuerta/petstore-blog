@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.javyhuerta</groupId>
 	<artifactId>petstore</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>petstore</name>
 	<description>Ejemplo de api first</description>
 	<url/>
@@ -68,9 +68,7 @@
 			<plugin>
 				<groupId>org.openapitools</groupId>
 				<artifactId>openapi-generator-maven-plugin</artifactId>
-				<!-- RELEASE_VERSION -->
 				<version>7.12.0</version>
-				<!-- /RELEASE_VERSION -->
 				<executions>
 					<execution>
 						<goals>
