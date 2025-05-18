@@ -8,7 +8,7 @@ En este proyecto practicamos el uso de open api generator con las siguientes tec
 
 ## Visita el blog para conocer más.
 
-> [javyhuerta.com/blog](javyhuerta.com/blog)
+> [javyhuerta.com/blog](https://javyhuerta.com/blog)
 
 
 ## Releases
